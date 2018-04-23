@@ -5,6 +5,7 @@ Go through the things needed to get up and running.
 ## Platform and required programs
 
 - Install MongoDB (show steps for Ubuntu too, as that will be the target platform)
+- Install Java (steps for Ubuntu also)
 - Install Eclipse
 - Install the Maven plugin for it
 
